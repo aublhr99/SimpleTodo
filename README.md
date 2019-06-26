@@ -34,6 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Persistence was hard to implement, and so was the onClick function.
+
 ## License
 
     Copyright [2019] [aublhr99]
